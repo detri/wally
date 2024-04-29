@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255f7b7c3a50df04c92315621a798550, type: 3}
+  m_Name: Wally
+  m_EditorClassIdentifier: 
+  icon: {fileID: 342544503, guid: f281e433e3066d648a2caeb9985ce078, type: 3}
+  characterName: Wally
+  characterPrefab: {fileID: 5033706168883314001, guid: d5695f6f876a9eb46bd302f77e385429, type: 3}
+  startingWeapon: {fileID: 5389171898169226228, guid: 72eca95905ac00447b8ae4da9b4bb7d4, type: 3}
